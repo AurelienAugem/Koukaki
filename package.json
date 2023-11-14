@@ -1,0 +1,14 @@
+{
+  "name": "foce-child",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/style.scss:style.css"
+  },
+  "author": "Aurelien Augem",
+  "license": "ISC",
+  "dependencies": {
+    "swiper": "^9.4.1"
+  }
+}
